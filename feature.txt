@@ -1,1 +1,2 @@
 "Primera funcionalidad" 
+"Segunda funcionalidad" 
